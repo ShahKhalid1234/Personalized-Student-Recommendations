@@ -13,15 +13,9 @@ Data provided by **Testline**.
 ## Installation Instructions
 1. Clone the repository:
    
-git clone https://github.com/shahkhalid1234/student-performance-analysis.git
+git clone https://github.com/shahkhalid1234/Personalized-Student-Recommendations.git
 
-
-2. Navigate to the project folder:
-
-  cd student-performance-analysis
-   
-
-3. Install required Python libraries:
+2. Install required Python libraries:
    
    pip install -r requirements.txt
    
